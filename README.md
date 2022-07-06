@@ -1,2 +1,2 @@
-# Redux-demo-status1
+# Redux-demo
 Redux官方demo
